@@ -1,2 +1,2 @@
-var index = require('index');
+var index = require('./index');
 console.log(index.name)
