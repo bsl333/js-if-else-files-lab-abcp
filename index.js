@@ -1,8 +1,10 @@
-var name = "susan"
+var name = "Joe"
 var height = "74"
 
-if(name === 'susan') {
+if(name === 'Susan') {
   console.log(`name is ${name}`);
+} else {
+  console.log('expected name to be Susan');
 }
 
 // Don't worry about this
